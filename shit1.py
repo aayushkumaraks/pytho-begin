@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import time;
 
-print '++++++++Just a So DAMN great Ecryption script!!+++++++++\n\n\n\n'
+print '++++++++Just a So DAMN stupid Ecryption script!!+++++++++\n\n\n\n'
 
 flag = input('Please Tell This Script for your privacy sake that what do you wanna do??\n\nEncrypt(1) OR Decrypt(2) :')
 
